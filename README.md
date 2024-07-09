@@ -32,6 +32,10 @@ Welcome to my GitHub profile! I'm a passionate student of Electric and Electroni
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blacksileco) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alperen-tekin) 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vueux1&limit=50&theme=dark&combine_all_yearly_contributions=true)
+
+
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vueux1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
