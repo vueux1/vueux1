@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate student of Electric and Electroni
  - **Coding**: Writing code and building projects is my passion.
  - **Learning**: I'm always eager to learn new things, whether it's a new programming language or a new technology.
 
-## 💼 Projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blacksileco) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alperen-tekin) 
