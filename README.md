@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate student of Electric and Electroni
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vueux1&theme=radical)
 
 # Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vueux1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=vueux1&show_icons=true&locale=en&layout=compact").
 
 ### 🖥️ Operating Systems
 <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="50" height="50" />
