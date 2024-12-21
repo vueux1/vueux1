@@ -1,4 +1,5 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto+mono&weight=600&size=26&pause=2017&color=C348FF&width=435&lines=HI%2C+I'm+Alperen.)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! I'm a passionate student of Electric and Electronic Engineering who loves exploring the endless possibilities of technology. Coding is my way of bringing ideas to life, and I'm constantly learning new things to expand my knowledge and skills.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vueux1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact).
