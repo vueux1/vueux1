@@ -16,12 +16,16 @@ Welcome to my GitHub profile! I'm a passionate student of Electric and Electroni
 
 🌱 Currently Learning: microcontrollers, embedded security, digital signal processing, docker, postgres, python, micro-python
 
-
+  <h3> <strong> 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌, 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 𝖺𝗇𝖽 𝖳𝗈𝗈𝗅𝗌
+ </strong></h3>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vite,vue,html,css,tailwind,js,ts,react,redux,java,arduino,mysql,docker,postgres,bootstrap,rider,selenium,postman,figma,spring,hibernate,maven,c,linux,vscode,aws" alt="skills logos" />
+  <br> 
+  
 ## 🛠️ Skills
 
 - **Languages**: Java, C, C#, TypeScript, JavaScript
 - **Frameworks & Libraries**: ASP.NET Core, Entity Framework, React, Vue.js, Spring Boot, Spring, HAL library
-- **Tools & Platforms**: Intellij, CLion, Rider, VS Code, Git, Postman, DataGrid, WebStorm,  STMCubeIDE
+- **Tools & Platforms**: Intellij, CLion, Rider, VS Code, Git, Postman, DataGrid, WebStorm,  STMCubeIDE, firebase
 - **Databases**: MySQL, SQL Server
 - **Other**: REST APIs, Microservices, Maven, Tomcat
 
@@ -47,16 +51,6 @@ Welcome to my GitHub profile! I'm a passionate student of Electric and Electroni
 
 # Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vueux1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact).
-
-
-  <h3> <strong> 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌, 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 𝖺𝗇𝖽 𝖳𝗈𝗈𝗅𝗌
- </strong></h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vite,vue,webstorm,html,css,tailwind,js,ts,react,tailwind,redux,java,arduino,mysql,docker,postgres,bootstrap,rider,selenium,devto,postman,figma,selenium,mysql,java,spring,hibernate,maven,c,linux,firabase,vscode,aws,vite,redux" alt="skills logos" />
-  <br> 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vueux1&limit=50&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
